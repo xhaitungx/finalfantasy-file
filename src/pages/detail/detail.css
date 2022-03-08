@@ -1,0 +1,24 @@
+.information {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 2rem 0 2rem;
+  height: 100vh;
+}
+
+.information img {
+  width: 30vw;
+  height: auto;
+}
+
+.data {
+  padding: 0 8rem;
+  font-size: 21px;
+  color: #fff;
+  padding-bottom: 1rem;
+}
+.data h1,
+h2,
+p {
+  padding-bottom: 1rem;
+}
